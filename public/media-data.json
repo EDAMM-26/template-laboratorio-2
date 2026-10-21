@@ -1,0 +1,38 @@
+[
+  {
+    "id": "m1",
+    "title": "Cascada de montaña",
+    "description": "Sonido ambiente",
+    "duration": 0.5,
+    "type": "audio",
+    "coverUrl": "https://placehold.co/300x180/1a1a2e/ffffff?text=Cascada",
+    "mediaUrl": "/cascada.mp3"
+  },
+  {
+    "id": "m2",
+    "title": "Big Buck Bunny",
+    "description": "Blender Foundation · 2008",
+    "duration": 1,
+    "type": "video",
+    "coverUrl": "https://placehold.co/300x180/1a1a1a/ffffff?text=Big+Buck+Bunny",
+    "mediaUrl": "/bigbuckbunny.mp4"
+  },
+  {
+    "id": "m3",
+    "title": "Wing it!",
+    "description": "Blender Foundation · 2023",
+    "duration": 1,
+    "type": "video",
+    "coverUrl": "https://placehold.co/300x180/2a1a1a/ffffff?text=Wing+it!",
+    "mediaUrl": "/wingit.mp4"
+  },
+  {
+    "id": "m4",
+    "title": "Coffy Run",
+    "description": "Blender Foundation · 2020",
+    "duration": 1,
+    "type": "video",
+    "coverUrl": "https://placehold.co/300x180/1a2a1a/ffffff?text=Coffy+Run",
+    "mediaUrl": "/coffyrun.mp4"
+  }
+]
